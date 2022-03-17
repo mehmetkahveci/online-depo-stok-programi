@@ -1,4 +1,5 @@
 # Stok Sevkiyat İşlemleri
+www.depostokprogrami.net
 
 Sevkiyat planlama modülü sayesinde sevkiyata gönderilen fiş veya siparişlerin transfer edilmek üzere araçlara yüklenmesi işlemini yapabilirsiniz.
 
