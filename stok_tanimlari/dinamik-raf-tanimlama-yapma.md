@@ -1,3 +1,4 @@
+www.depostokprogrami.net
 # Dinamik Raf Tanımlama
 
 Dinamik Raf Takibi yapabilmek için öncelikle Raf tanımlarımızı yapmalıyız. Bunun için **Program Sabitleri** menüsünden **Dinamik Raf Tanımları** seçeneğini seçmelisiniz.
