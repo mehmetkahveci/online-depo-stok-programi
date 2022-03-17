@@ -1,0 +1,2 @@
+# Kayıt Kilitleme Tanımları
+
