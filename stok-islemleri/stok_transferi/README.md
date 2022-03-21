@@ -15,7 +15,7 @@ Depolar arası stok transferi iki şekilde yapılmaktadır.&#x20;
 
 _**Onaysız Transfer Diyagramı**_
 
-![Onaysız Depo Transfer Diyagramı](<../../.gitbook/assets/image (36).png>)
+![Onaysız Depo Transfer Diyagramı](<../../.gitbook/assets/image (33) (2).png>)
 
 **Onaylı** stok transfer işleminde ise **A** deposundan **B** deposuna stok transferi yaptığınızda öncelikle **A** deposunun sorumlusunun önüne transfer işlemi onay için gelmektedir. ****&#x20;
 
