@@ -1,9 +1,7 @@
 # Stoklar hangi kargo ile gönderilecek
 
 Her firmanın stokları için ayrı ayrı kargo tanımlaması yapabilirsiniz. Bunun için **Stok Listesi** butonuna tıklıyoruz.\
-
-
-![](<../../.gitbook/assets/image (86).png>)
+![](<../../.gitbook/assets/image (88).png>)
 
 Stok listesi ekranında hangi stoğa tanımlama yapacaksak o stoğu buluyoruz. Sonrasında&#x20;
 

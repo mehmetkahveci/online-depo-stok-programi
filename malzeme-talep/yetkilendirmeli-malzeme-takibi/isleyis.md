@@ -16,7 +16,7 @@ Malzeme talep onay yetkisine sahip kullanıcı **Depo-Stok-->Stok İşlemleri-->
 Malzeme taleplerinin listesinin olduğu ekran karşısına gelir. Bu ekranda Listele butonuna tıklayarak onaylanmamış tüm malzeme talepleri görülebilir.\
 
 
-![](<../../.gitbook/assets/image (88).png>)
+![](<../../.gitbook/assets/image (88) (1).png>)
 
 Onaylanacak olan talep seçilir ve **Düzenle** butonuna tıklanarak açılan ekranda Hangi Depodan ve kim tarafından malzeme talebi yapılmışsa o seçilir. ve **Kaydet** butonuna tıklanarak talep ekranı kapatılır.
 
