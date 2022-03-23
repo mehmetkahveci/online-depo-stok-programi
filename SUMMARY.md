@@ -1,5 +1,4 @@
-# Table of contents
-
+# Online Depo-Stok Programı Kullanım Klavuzu
 * [Depo-Stok Programı Kullanım Kılavuzu](README.md)
 * [Eğitim Videoları](egitim-videolari.md)
 * [Başlarken](baslarken.md)
