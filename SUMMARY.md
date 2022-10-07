@@ -1,4 +1,5 @@
-# Online Depo-Stok Programı Kullanım Klavuzu
+# Table of contents
+
 * [Depo-Stok Programı Kullanım Kılavuzu](README.md)
 * [Eğitim Videoları](egitim-videolari.md)
 * [Başlarken](baslarken.md)
@@ -12,6 +13,8 @@
     * [Kargo Firma Tanımları](stok\_tanimlari/kargo-tanimlari/kargo-firma-tanimlari.md)
     * [Zone Tanımları -Bölge](stok\_tanimlari/kargo-tanimlari/zone-tanimlari-boelge.md)
     * [Stoklar hangi kargo ile gönderilecek](stok\_tanimlari/kargo-tanimlari/stoklar-hangi-kargo-ile-goenderilecek.md)
+    * [Kargo Fiyatlandırma](stok\_tanimlari/kargo-tanimlari/kargo-fiyatlandirma.md)
+  * [Paket Tanımları](stok\_tanimlari/paket-tanimlari.md)
 * [Stok İşlemleri](stok-islemleri/README.md)
   * [Stok Giriş İşlemi](stok-islemleri/stok-giris-islemi.md)
   * [Stok Çıkış İşlemi](stok-islemleri/stok-cikis-islemi.md)

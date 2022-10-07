@@ -7,9 +7,7 @@ coverY: 0
 
 # Eğitim Videoları
 
-Eğitim videolarımıza youtube kanalımızdan ulaşabilirsiniz. \
-
+Eğitim videolarımıza youtube kanalımızdan ulaşabilirsiniz.&#x20;
 
 Erişim linki:\
 [https://www.youtube.com/watch?v=Aqa5UVetl3Q\&list=PLu2aODVmT6j-kTJRBeAGTG8xb9Yozo4BZ](https://www.youtube.com/watch?v=Aqa5UVetl3Q\&list=PLu2aODVmT6j-kTJRBeAGTG8xb9Yozo4BZ)
-

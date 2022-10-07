@@ -7,6 +7,6 @@ description: >-
 
 # Depo-Stok Programı Kullanım Kılavuzu
 
-> ## [www.depostokprogrami.net](https://www.depostokprogrami.net)
+> ### [www.depostokprogrami.net](https://www.depostokprogrami.net)
 
 ![](.gitbook/assets/online\_depo\_stok\_programi2.png)
