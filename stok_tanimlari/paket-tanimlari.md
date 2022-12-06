@@ -1,7 +1,7 @@
 # Paket Tanımları
 
 Paketler oluşturup bu paketlere stokları ekleyebilirsiniz.  Bunun için **Program Sabitleri --> Paket Tanımları** Menüsünden ulaşabilirsiniz.\
-<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (2) (2).png" alt="" data-size="original">
 
 Paket tanımları ekranında yeni bir paket tanımlamak için;
 

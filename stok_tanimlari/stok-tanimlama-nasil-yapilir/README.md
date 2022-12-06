@@ -12,13 +12,13 @@ Yeni stok tanımlamak veya mevcut stoklarınızı düzenlemek için **Depo-Stok*
 
 ![Depo-Stok menüsü](<../../.gitbook/assets/image (2) (1).png>)
 
-![Stok Listesi seçeneği](<../../.gitbook/assets/image (3) (1).png>)
+![Stok Listesi seçeneği](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 **Stok listesi** ekranında mevcut tanımlı olan stoklarımızın listesini görebiliriz. Ayrıca bu stokları düzenleyebilir veya yeni stok ekleyebiliriz.
 
 Yeni stok eklemek için ekrandaki **Yeni** butonuna tıklamalısınız.
 
-![Stok Listesi ekranı](<../../.gitbook/assets/image (4).png>)
+![Stok Listesi ekranı](<../../.gitbook/assets/image (4) (1).png>)
 
 Yeni butonuna tıkladığınızda stok tanımlama ekranı gelecektir.
 

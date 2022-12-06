@@ -25,6 +25,7 @@
     * [Transfer Onay ve Kabul yetkisi nereden verilir?](stok-islemleri/stok\_transferi/transfer-onay-ve-kabul-yetkisi-nereden-verilir.md)
   * [Stok Sayım İşlemleri](stok-islemleri/stok-sayim-islemleri.md)
   * [Barkod ile stok giriş-çıkışı nasıl yapılır?](stok-islemleri/barkod-ile-stok-cikisi-nasil-yapilir.md)
+  * [Siparişten Stok Girişi](stok-islemleri/siparisten-stok-girisi.md)
   * [Raporlar](stok-islemleri/stok-raporlari/README.md)
     * [Stok Listesi](stok-islemleri/stok-raporlari/stok-listesi.md)
     * [Stok Fiş Listesi](stok-islemleri/stok-raporlari/stok-fis-listesi.md)

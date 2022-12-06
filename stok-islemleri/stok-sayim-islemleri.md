@@ -55,4 +55,4 @@ Onaylanmış sayım fişini sildiğiniz de sayım fişinin oluşturduğu Sayım 
 
 Sayım ekranına sıfırla butonu eklenmiştir. Bu butonu kullanarak sayım yaptığınız stoklar dışında kalan stoklarınızı sıfırlayabilirsiniz. Bu sayede stoktan düşülmemiş elimizde olmayan ama stokta görünen ürünlerin karışıklık çıkarması önlenmiş olacaktır.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

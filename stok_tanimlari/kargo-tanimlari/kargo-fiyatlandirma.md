@@ -7,6 +7,6 @@ Kargo tanımları ekranından;
 * Çıkan ekranda Alt menüden **Fiyatlar** butonuna tıklayınız.\
   ![](<../../.gitbook/assets/image (13).png>)
 * Karşınıza gelen kargo fiyatlandırma ekranında ağırlık aralığını ve fiyatı girip Ekle butonuna tıklayınız.\
-  ![](<../../.gitbook/assets/image (3).png>)
+  ![](<../../.gitbook/assets/image (3) (1).png>)
 
 \
