@@ -10,7 +10,7 @@ description: Sipariş edilen ürünlerin stok fişi ekranından alıma dönüşt
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Stok Giriş** ekranında gelen ürünler hangi depoya girecekse o depo seçilir. İstenilirse malzemeyi aldığımız firma bilgisini seçebilirsiniz.
 
@@ -23,3 +23,7 @@ Siparişler sekmesinde **Sorgula** butonuna tıklayarak mevcut siparişlerin lis
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Böylece ilgili sipariş giriş fişine aktarılacaktır. Bu aktarımdan sonra ilgili üründen tedarik edilmeyen ne kadar kalmış görebilirsiniz.
+
+Aktarılmış siparişler genel bilgiler kisminda görünecektir.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
