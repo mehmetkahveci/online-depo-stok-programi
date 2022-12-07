@@ -45,7 +45,7 @@
   * [Sevkiyat Çıkış İşlemleri](stok-sevkiyat-islemleri/sevkiyat-cikis-islemleri.md)
 * [Firma-Kullanıcı İşlemleri](firma-kullanici-islemleri/README.md)
   * [Kurum Bilgilerim](firma-kullanici-islemleri/kurum-bilgilerim.md)
-  * [Kullanıcı Tanımla nasıl yapılır?](firma-kullanici-islemleri/kullanici-tanimla-nasil-yapilir.md)
+  * [Kullanıcı Tanımlama nasıl yapılır?](firma-kullanici-islemleri/kullanici-tanimla-nasil-yapilir.md)
   * [Rol Tanımlama Nasıl Yapılır?](firma-kullanici-islemleri/rol-tanimlama-nasil-yapilir.md)
   * [Kullanıcıya Rol Atama İşlemi](firma-kullanici-islemleri/kullaniciya-rol-atama-islemi.md)
   * [Stok Gruplarına Göre Yetkilendirme](firma-kullanici-islemleri/stok-gruplarina-goere-yetkilendirme.md)
