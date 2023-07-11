@@ -12,9 +12,10 @@ Stok listesi ekranında kdv oranı değiştirilecek stokları listeleyiniz(Filtr
 
 Daha sonra **Stok listesi** ekranın üst kısmında **KDV Oranı değiştir** linki bulunmaktadır. Bu linke tıklayarak kdv oranı değiştirme ekranını açabilirsiniz.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
-Kdv Oranı değiştirme ekranında stok listesi ekranında listelenen stoklara uygulanacak yeni kdv oranını yazıp **Değiştir** butonuna tıklamalısınız.
+Kdv Oranı değiştirme ekranında stok listesi ekranında listelenen stoklara uygulanacak yeni kdv oranını yazıp **Değiştir** butonuna tıklamalısınız.\
+![](../.gitbook/assets/image.png)
 
 Böylece listelenen stokların kdv'leri yeni girdiğimiz kdv oranına göre değiştirilecektir.
 
