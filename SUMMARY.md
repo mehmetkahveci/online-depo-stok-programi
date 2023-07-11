@@ -26,6 +26,7 @@
   * [Stok Sayım İşlemleri](stok-islemleri/stok-sayim-islemleri.md)
   * [Barkod ile stok giriş-çıkışı nasıl yapılır?](stok-islemleri/barkod-ile-stok-cikisi-nasil-yapilir.md)
   * [Siparişten Stok Girişi](stok-islemleri/siparisten-stok-girisi.md)
+  * [Toplu Kdv Oranı Değiştirme](stok-islemleri/toplu-kdv-orani-degistirme.md)
   * [Raporlar](stok-islemleri/stok-raporlari/README.md)
     * [Stok Listesi](stok-islemleri/stok-raporlari/stok-listesi.md)
     * [Stok Fiş Listesi](stok-islemleri/stok-raporlari/stok-fis-listesi.md)

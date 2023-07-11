@@ -4,9 +4,9 @@ description: www.depostokprogrami.net
 
 # Depolar Arası Stok Transferi
 
-``[`www.depostokprogrami.net`](https://www.depostokprogrami.net)
+\`\`[`www.depostokprogrami.net`](https://www.depostokprogrami.net)
 
-Depolar arası stok transferi iki şekilde yapılmaktadır.&#x20;
+Depolar arası stok transferi iki şekilde yapılmaktadır.
 
 > 1-Onaylı\
 > 2-Onaysız
@@ -17,9 +17,9 @@ _**Onaysız Transfer Diyagramı**_
 
 ![Onaysız Depo Transfer Diyagramı](<../../.gitbook/assets/image (33) (2).png>)
 
-**Onaylı** stok transfer işleminde ise **A** deposundan **B** deposuna stok transferi yaptığınızda öncelikle **A** deposunun sorumlusunun önüne transfer işlemi onay için gelmektedir. ****&#x20;
+**Onaylı** stok transfer işleminde ise **A** deposundan **B** deposuna stok transferi yaptığınızda öncelikle **A** deposunun sorumlusunun önüne transfer işlemi onay için gelmektedir. \*\*\*\*
 
-****
+
 
 _**Onaylı Transfer Diyagramı -1**_
 
@@ -36,12 +36,10 @@ Eğer **Genel Ayarlar** dan **Transfer için depo sorumlusu onayı isteme** seç
 {% endhint %}
 
 \
-Onaylı depo transfer işlemi için Genel ayarlar menüsünden Depolar arası stok transferinde onay iste seçeneğinin seçili olması gerekiyor.&#x20;
+Onaylı depo transfer işlemi için Genel ayarlar menüsünden Depolar arası stok transferinde onay iste seçeneğinin seçili olması gerekiyor.
 
 ![](<../../.gitbook/assets/image (24).png>)
 
 Ayrıca kullanıcı yetkilendirme sistemi olarak ta Rol tabanlı yetki kullanımı seçili olması gerekmektedir.(Kurum bilgilerim kısmından seçebilirsiniz)
 
 ![](<../../.gitbook/assets/image (25).png>)
-
-&#x20;
