@@ -9,6 +9,7 @@
   * [Dinamik Raf Tanımlama](stok\_tanimlari/dinamik-raf-tanimlama-yapma.md)
   * [Stok Tanımlama nasıl yapılır?](stok\_tanimlari/stok-tanimlama-nasil-yapilir/README.md)
     * [Çoklu Stok Birimi Tanımlama](stok\_tanimlari/stok-tanimlama-nasil-yapilir/coklu-stok-birimi-tanimlama.md)
+    * [Stok Programına Excel'den Veri Aktarma](stok\_tanimlari/stok-tanimlama-nasil-yapilir/stok-programina-excelden-veri-aktarma.md)
   * [Kargo Tanımları](stok\_tanimlari/kargo-tanimlari/README.md)
     * [Kargo Firma Tanımları](stok\_tanimlari/kargo-tanimlari/kargo-firma-tanimlari.md)
     * [Zone Tanımları -Bölge](stok\_tanimlari/kargo-tanimlari/zone-tanimlari-boelge.md)
